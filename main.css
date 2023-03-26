@@ -1,0 +1,49 @@
+main {
+    background-color: #F3F5F4;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: inline-block;
+    width: 80%;
+    margin-left: 10%;
+}
+
+img {
+    margin-top: 40px;
+    margin-left: 40%;
+    width: 20%;   
+}
+
+h1 {
+    max-width: 30%;
+    margin-left: 36%;
+    font-size: 100px;
+    font-family: 'Golos Text', sans-serif;
+    text-transform: uppercase;
+}
+
+p {
+    margin-left: 22%;
+    font-size: 50px;
+    font-family: 'Golos Text', sans-serif;
+    max-width: 60%;   
+}
+
+a {
+    margin-left: 42%;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: 'Golos Text', sans-serif;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: red;
+    color: white;
+    margin-left: 42%;
+    margin-bottom: 40px;
+    display: inline-block;    
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
